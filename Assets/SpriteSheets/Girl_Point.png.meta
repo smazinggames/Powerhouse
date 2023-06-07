@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: 70c2469f569524f78bb694e990f9ed0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Girl_Point_0
+  - first:
+      213: 21300002
+    second: Girl_Point_1
+  - first:
+      213: 21300004
+    second: Girl_Point_2
+  - first:
+      213: 21300006
+    second: Girl_Point_3
+  - first:
+      213: 21300008
+    second: Girl_Point_4
+  - first:
+      213: 21300010
+    second: Girl_Point_5
+  - first:
+      213: 21300012
+    second: Girl_Point_6
+  - first:
+      213: 21300014
+    second: Girl_Point_7
+  - first:
+      213: 21300016
+    second: Girl_Point_8
+  - first:
+      213: 21300018
+    second: Girl_Point_9
+  - first:
+      213: 21300020
+    second: Girl_Point_10
+  - first:
+      213: 21300022
+    second: Girl_Point_11
+  - first:
+      213: 21300024
+    second: Girl_Point_12
+  - first:
+      213: 21300026
+    second: Girl_Point_13
+  - first:
+      213: 21300028
+    second: Girl_Point_14
+  - first:
+      213: 21300030
+    second: Girl_Point_15
+  - first:
+      213: 21300032
+    second: Girl_Point_16
+  - first:
+      213: 21300034
+    second: Girl_Point_17
+  - first:
+      213: 21300036
+    second: Girl_Point_18
+  - first:
+      213: 21300038
+    second: Girl_Point_19
+  - first:
+      213: 21300040
+    second: Girl_Point_20
+  - first:
+      213: 21300042
+    second: Girl_Point_21
+  - first:
+      213: 21300044
+    second: Girl_Point_22
+  - first:
+      213: 21300046
+    second: Girl_Point_23
+  - first:
+      213: 21300048
+    second: Girl_Point_24
+  - first:
+      213: 21300050
+    second: Girl_Point_25
+  - first:
+      213: 21300052
+    second: Girl_Point_26
+  - first:
+      213: 21300054
+    second: Girl_Point_27
+  - first:
+      213: 21300056
+    second: Girl_Point_28
+  - first:
+      213: 21300058
+    second: Girl_Point_29
+  - first:
+      213: 21300060
+    second: Girl_Point_30
+  - first:
+      213: 21300062
+    second: Girl_Point_31
+  - first:
+      213: 21300064
+    second: Girl_Point_32
+  - first:
+      213: 21300066
+    second: Girl_Point_33
+  - first:
+      213: 21300068
+    second: Girl_Point_34
+  - first:
+      213: 21300070
+    second: Girl_Point_35
+  - first:
+      213: 21300072
+    second: Girl_Point_36
+  - first:
+      213: 21300074
+    second: Girl_Point_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Girl_Point_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c27e79580334d7c9bc63c5b6a92242
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf6d752bfd88463cba43b5e13957d31
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b1a6a8769284b71a1ec9fc2b8a7e39
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997eacafa65634d6fb8615b8f3904ad0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_4
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b51ebe927084823972120c1acdc251
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_5
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd26c5c85df476095c35184e14e0ef
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_6
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad057ad8b26743b3ae6e03401f8a565
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_7
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a654a830b3df0494896412a1e9343136
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_8
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b5d2bdf9ce4b7b8d65a860d32c86b
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_9
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80babcbecfa14919a2c9d69a8d72397
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c53b86a011c46528b5be310a13fdfe
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760305e0af0b467d9e6a95dcaf08a1e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e000122c9c3f54410b5ea94c4465cd1a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_13
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d555942bf454404dbaa814892d9407d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_14
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19fed45f893740519982b71e5519a90
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_15
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4395a5336b9847fb9b25527872bd8a6
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_16
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a038849b9a447e092f23e09a6fc683
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_17
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d012de74a2ec484fad6de905ecd3357
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_18
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b2aec30bc49409f8e42b61ffb7ac5a
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_19
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88de7c550624d4b0ea108e7a0301db66
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6db6f4ee3b44428ea2facb5d5d08f8c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5154e5d8e8c483c8a1d9c27b7f5ca9
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102fc6aef3be649bdad7fa8ab73a2de9
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_23
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e2b2b4fec6c4c79a03b93be5e7fed2
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_24
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ae303e52a745eba5c1aefa6f7d911
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_25
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a663dcbf9e2a7479d8644e0841718467
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_26
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33604fd133c1746c5be8fd8f191bdeec
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_27
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a505a6cffa0d4149a86887246deb2ef
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_28
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f5114f3083a4905b5563504290fa53
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_29
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b60a1b83b845018541bf74657c6d9
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fd2d5948bb9477d80751a75c3ec929
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df952e26e436747c6a4b34d01d62d5d6
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_32
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50b5ce23cacc448faf9ebd8b05c6a38
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_33
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d8e3744bfbe4249bf79ad2df3a4f2d
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_34
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3656599868a40508c17ebf94735e25
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_35
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ada6e22aa44bfd8ddbda11b1e3275
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_36
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2211e9980b134cc6be7dd9c361c9e2c
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Point_37
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240cb54869ec14f7b9f69af8a745fa2e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 71ac8fd962b5e4e98a705e349139faca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Girl_Point_1: 21300002
+      Girl_Point_36: 21300072
+      Girl_Point_35: 21300070
+      Girl_Point_33: 21300066
+      Girl_Point_17: 21300034
+      Girl_Point_26: 21300052
+      Girl_Point_13: 21300026
+      Girl_Point_16: 21300032
+      Girl_Point_15: 21300030
+      Girl_Point_20: 21300040
+      Girl_Point_23: 21300046
+      Girl_Point_14: 21300028
+      Girl_Point_25: 21300050
+      Girl_Point_6: 21300012
+      Girl_Point_34: 21300068
+      Girl_Point_0: 21300000
+      Girl_Point_22: 21300044
+      Girl_Point_32: 21300064
+      Girl_Point_24: 21300048
+      Girl_Point_31: 21300062
+      Girl_Point_28: 21300056
+      Girl_Point_4: 21300008
+      Girl_Point_27: 21300054
+      Girl_Point_29: 21300058
+      Girl_Point_19: 21300038
+      Girl_Point_8: 21300016
+      Girl_Point_18: 21300036
+      Girl_Point_30: 21300060
+      Girl_Point_11: 21300022
+      Girl_Point_3: 21300006
+      Girl_Point_10: 21300020
+      Girl_Point_12: 21300024
+      Girl_Point_9: 21300018
+      Girl_Point_37: 21300074
+      Girl_Point_2: 21300004
+      Girl_Point_7: 21300014
+      Girl_Point_5: 21300010
+      Girl_Point_21: 21300042
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

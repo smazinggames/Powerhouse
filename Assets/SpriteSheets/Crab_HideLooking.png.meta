@@ -1,0 +1,1197 @@
+fileFormatVersion: 2
+guid: eb10028dfbf7b4fc2af1fe51a62645c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Crab_HideLooking_0
+  - first:
+      213: 21300002
+    second: Crab_HideLooking_1
+  - first:
+      213: 21300004
+    second: Crab_HideLooking_2
+  - first:
+      213: 21300006
+    second: Crab_HideLooking_3
+  - first:
+      213: 21300008
+    second: Crab_HideLooking_4
+  - first:
+      213: 21300010
+    second: Crab_HideLooking_5
+  - first:
+      213: 21300012
+    second: Crab_HideLooking_6
+  - first:
+      213: 21300014
+    second: Crab_HideLooking_7
+  - first:
+      213: 21300016
+    second: Crab_HideLooking_8
+  - first:
+      213: 21300018
+    second: Crab_HideLooking_9
+  - first:
+      213: 21300020
+    second: Crab_HideLooking_10
+  - first:
+      213: 21300022
+    second: Crab_HideLooking_11
+  - first:
+      213: 21300024
+    second: Crab_HideLooking_12
+  - first:
+      213: 21300026
+    second: Crab_HideLooking_13
+  - first:
+      213: 21300028
+    second: Crab_HideLooking_14
+  - first:
+      213: 21300030
+    second: Crab_HideLooking_15
+  - first:
+      213: 21300032
+    second: Crab_HideLooking_16
+  - first:
+      213: 21300034
+    second: Crab_HideLooking_17
+  - first:
+      213: 21300036
+    second: Crab_HideLooking_18
+  - first:
+      213: 21300038
+    second: Crab_HideLooking_19
+  - first:
+      213: 21300040
+    second: Crab_HideLooking_20
+  - first:
+      213: 21300042
+    second: Crab_HideLooking_21
+  - first:
+      213: 21300044
+    second: Crab_HideLooking_22
+  - first:
+      213: 21300046
+    second: Crab_HideLooking_23
+  - first:
+      213: 21300048
+    second: Crab_HideLooking_24
+  - first:
+      213: 21300050
+    second: Crab_HideLooking_25
+  - first:
+      213: 21300052
+    second: Crab_HideLooking_26
+  - first:
+      213: 21300054
+    second: Crab_HideLooking_27
+  - first:
+      213: 21300056
+    second: Crab_HideLooking_28
+  - first:
+      213: 21300058
+    second: Crab_HideLooking_29
+  - first:
+      213: 21300060
+    second: Crab_HideLooking_30
+  - first:
+      213: 21300062
+    second: Crab_HideLooking_31
+  - first:
+      213: 21300064
+    second: Crab_HideLooking_32
+  - first:
+      213: 21300066
+    second: Crab_HideLooking_33
+  - first:
+      213: 21300068
+    second: Crab_HideLooking_34
+  - first:
+      213: 21300070
+    second: Crab_HideLooking_35
+  - first:
+      213: 21300072
+    second: Crab_HideLooking_36
+  - first:
+      213: 21300074
+    second: Crab_HideLooking_37
+  - first:
+      213: 21300076
+    second: Crab_HideLooking_38
+  - first:
+      213: 21300078
+    second: Crab_HideLooking_39
+  - first:
+      213: 21300080
+    second: Crab_HideLooking_40
+  - first:
+      213: 21300082
+    second: Crab_HideLooking_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crab_HideLooking_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 628
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2a0b3541bef46c7abed04f820725af
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 628
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c13c70d6774187971a5f979181b92
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 628
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c495af0517c4a74acd730d578996e3
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 628
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2442476befe604c08b4b9e0cc8d4cb3f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 628
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee3d21209d44e8597e24af60e42db4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_5
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 628
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9255b8626d884254aab690dcccb0387
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 628
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e62579f79c4c3d84934e881884297
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_7
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 628
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340ee51abecbd48ae8bebbaab1a7e471
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a054bf74048364e12ade11fb21900559
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c481a682c572945a89c9a34acf767193
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebfab3c63e4c4845b6063e57e17023c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4ba3698adc408aaa9ad24cb467699
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1e70878370c4173818838e44a6d6d1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198cf5f9567954d4a9ba589c98d1ad7f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dccbc75cf4745debd94e121a67d225
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_15
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ab7325293f744d6873c9c9f11c9f28
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb952e99f411a4a1a98979c0e85ea7e0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_17
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 471
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451ce600a80e44820af772a1c2ad9e17
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0160506b1a1834ffa900e768ce3d15ab
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb03925cf17d44b8ca7c2b2cacda1a22
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327c3a8a9c7ee45ffabeed174613cc02
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86724bfe4dc314ef78b2ef6a152e7439
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d853d353458fe4470a4ec0048c67a8e4
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b197f5abb4496a99442f223060d59
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaecc6d293774d0c983267aeb38952d
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_25
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35da48060dd964abfaaf0d40b2b79e65
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af32f5583af04d3292f15db5f794022
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 314
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923238a55605d468b89385c52bbb4f75
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f4e238b1a844989258924400497f7
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec7ca548b15441f6be17d3730430d25
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1667d3cb824d64e649c89cf8f6ca1348
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994a25e75fc645fbb5b90323e40abbe
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab5c0cb08cc44c80a84f4d2836e84e4
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7df9f37ac3f42c6b39aa3acb8f61be
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_34
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd35c2151f3435193e0d1013c230ee
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_35
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c51d7b7442a041fbb9da4c26bb952f3
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c965e1900f3640129624867c9096914
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_37
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 157
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfbf3bdaf3094a259cd3c628753b971
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec78bde5d7f24c60b6f68168014655a
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc283192892847b7bc990ac1f1af144
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb89f8ec60281419383a22f030091aa4
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crab_HideLooking_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac29fe7beb3f847a89a71f877f06b916
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 66aa2606535f247d48007dc376c722e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crab_HideLooking_15: 21300030
+      Crab_HideLooking_35: 21300070
+      Crab_HideLooking_10: 21300020
+      Crab_HideLooking_30: 21300060
+      Crab_HideLooking_2: 21300004
+      Crab_HideLooking_5: 21300010
+      Crab_HideLooking_28: 21300056
+      Crab_HideLooking_7: 21300014
+      Crab_HideLooking_17: 21300034
+      Crab_HideLooking_33: 21300066
+      Crab_HideLooking_31: 21300062
+      Crab_HideLooking_29: 21300058
+      Crab_HideLooking_21: 21300042
+      Crab_HideLooking_1: 21300002
+      Crab_HideLooking_22: 21300044
+      Crab_HideLooking_32: 21300064
+      Crab_HideLooking_4: 21300008
+      Crab_HideLooking_24: 21300048
+      Crab_HideLooking_0: 21300000
+      Crab_HideLooking_12: 21300024
+      Crab_HideLooking_23: 21300046
+      Crab_HideLooking_25: 21300050
+      Crab_HideLooking_38: 21300076
+      Crab_HideLooking_9: 21300018
+      Crab_HideLooking_11: 21300022
+      Crab_HideLooking_8: 21300016
+      Crab_HideLooking_6: 21300012
+      Crab_HideLooking_34: 21300068
+      Crab_HideLooking_19: 21300038
+      Crab_HideLooking_40: 21300080
+      Crab_HideLooking_13: 21300026
+      Crab_HideLooking_37: 21300074
+      Crab_HideLooking_26: 21300052
+      Crab_HideLooking_18: 21300036
+      Crab_HideLooking_27: 21300054
+      Crab_HideLooking_20: 21300040
+      Crab_HideLooking_16: 21300032
+      Crab_HideLooking_36: 21300072
+      Crab_HideLooking_41: 21300082
+      Crab_HideLooking_39: 21300078
+      Crab_HideLooking_3: 21300006
+      Crab_HideLooking_14: 21300028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

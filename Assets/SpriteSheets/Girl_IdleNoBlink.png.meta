@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: 110c641da20744420b60f5be2e58c5c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Girl_IdleNoBlink_0
+  - first:
+      213: 21300002
+    second: Girl_IdleNoBlink_1
+  - first:
+      213: 21300004
+    second: Girl_IdleNoBlink_2
+  - first:
+      213: 21300006
+    second: Girl_IdleNoBlink_3
+  - first:
+      213: 21300008
+    second: Girl_IdleNoBlink_4
+  - first:
+      213: 21300010
+    second: Girl_IdleNoBlink_5
+  - first:
+      213: 21300012
+    second: Girl_IdleNoBlink_6
+  - first:
+      213: 21300014
+    second: Girl_IdleNoBlink_7
+  - first:
+      213: 21300016
+    second: Girl_IdleNoBlink_8
+  - first:
+      213: 21300018
+    second: Girl_IdleNoBlink_9
+  - first:
+      213: 21300020
+    second: Girl_IdleNoBlink_10
+  - first:
+      213: 21300022
+    second: Girl_IdleNoBlink_11
+  - first:
+      213: 21300024
+    second: Girl_IdleNoBlink_12
+  - first:
+      213: 21300026
+    second: Girl_IdleNoBlink_13
+  - first:
+      213: 21300028
+    second: Girl_IdleNoBlink_14
+  - first:
+      213: 21300030
+    second: Girl_IdleNoBlink_15
+  - first:
+      213: 21300032
+    second: Girl_IdleNoBlink_16
+  - first:
+      213: 21300034
+    second: Girl_IdleNoBlink_17
+  - first:
+      213: 21300036
+    second: Girl_IdleNoBlink_18
+  - first:
+      213: 21300038
+    second: Girl_IdleNoBlink_19
+  - first:
+      213: 21300040
+    second: Girl_IdleNoBlink_20
+  - first:
+      213: 21300042
+    second: Girl_IdleNoBlink_21
+  - first:
+      213: 21300044
+    second: Girl_IdleNoBlink_22
+  - first:
+      213: 21300046
+    second: Girl_IdleNoBlink_23
+  - first:
+      213: 21300048
+    second: Girl_IdleNoBlink_24
+  - first:
+      213: 21300050
+    second: Girl_IdleNoBlink_25
+  - first:
+      213: 21300052
+    second: Girl_IdleNoBlink_26
+  - first:
+      213: 21300054
+    second: Girl_IdleNoBlink_27
+  - first:
+      213: 21300056
+    second: Girl_IdleNoBlink_28
+  - first:
+      213: 21300058
+    second: Girl_IdleNoBlink_29
+  - first:
+      213: 21300060
+    second: Girl_IdleNoBlink_30
+  - first:
+      213: 21300062
+    second: Girl_IdleNoBlink_31
+  - first:
+      213: 21300064
+    second: Girl_IdleNoBlink_32
+  - first:
+      213: 21300066
+    second: Girl_IdleNoBlink_33
+  - first:
+      213: 21300068
+    second: Girl_IdleNoBlink_34
+  - first:
+      213: 21300070
+    second: Girl_IdleNoBlink_35
+  - first:
+      213: 21300072
+    second: Girl_IdleNoBlink_36
+  - first:
+      213: 21300074
+    second: Girl_IdleNoBlink_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da41dc93d4945828b7b6c5bd975116
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c84160a1de48a692f5f46abe59fba
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897141172815e4b16b9d890a697e4246
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9577c4dc30754d8da9030b2ac7b0cf5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_4
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f157e8a32d83c40389dc274d0ee91ad2
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_5
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7786579cf7348cb8f1573e18dfa6fd
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_6
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5800af7c39543388966e3c3ae100bb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_7
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428a3b26db54a420aa28869134ab2889
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_8
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ebf697cf9cf489ab83c7ac10e3f55f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_9
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94245410801d1492a8a82512011d3bb2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e40abd205b64007a376e7f9dd9cb95
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61da7de1a86b4b1d8367834139782ed
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c5c69a8aa244d6ae3132f3a5dca0c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_13
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f5d8553129e4a50b98d2cbeb18fe91
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_14
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa52655308d4e6693348a7d9c015f0
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_15
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a51027f434141a88305a95862758ac
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_16
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6733e3911004d8b90db350def0febc
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_17
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc0e5046634241d2b455bf67a2798c2
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_18
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6646b1879f47434c9344a11ac4cee5e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_19
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cf1185a360d4c01bf8a7521699c04c
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf3c3fda2be4321b182684a8072ac4
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c275efc1d754c50914e5abef213756
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9cf3fd1e09048aea56b3d077690c6f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_23
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2736933a8c60f4c258835ea16f29e53c
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_24
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6fa07b9b640460dbe6ca9c70218a28
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_25
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0129b5907cc74d4cbc3e55dad6f42d7
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_26
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1326d410e34fa1bf3d9e9378fcc48
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_27
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9033db863574374b9fa75794bfc5b1
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_28
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5038abaffed4284bf0e3535cc56355
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_29
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a418e254ca43dca05a62ca554386d
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8e7ea08e984a7b87fd4053ac17ad4
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6119aa14fe0194f85bfe42516cc27ac4
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_32
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a96a819c073b4bc2ace42a1a184603c
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_33
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab7976110dc437b9ef02fdfb3dedc8
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_34
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f784dc343c0e4f9db0fd28c2b6cb8df
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_35
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f92550477f746449bb2b58140fcaf4
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_36
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65157780f71c2474498a54c0948e0dc1
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_IdleNoBlink_37
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9dd7f98914f4059b9cd86c46d0e5dd
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 656955d5db6ab4e858cf43a0121a5343
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Girl_IdleNoBlink_36: 21300072
+      Girl_IdleNoBlink_3: 21300006
+      Girl_IdleNoBlink_6: 21300012
+      Girl_IdleNoBlink_18: 21300036
+      Girl_IdleNoBlink_13: 21300026
+      Girl_IdleNoBlink_30: 21300060
+      Girl_IdleNoBlink_31: 21300062
+      Girl_IdleNoBlink_11: 21300022
+      Girl_IdleNoBlink_23: 21300046
+      Girl_IdleNoBlink_17: 21300034
+      Girl_IdleNoBlink_20: 21300040
+      Girl_IdleNoBlink_33: 21300066
+      Girl_IdleNoBlink_2: 21300004
+      Girl_IdleNoBlink_19: 21300038
+      Girl_IdleNoBlink_24: 21300048
+      Girl_IdleNoBlink_16: 21300032
+      Girl_IdleNoBlink_28: 21300056
+      Girl_IdleNoBlink_32: 21300064
+      Girl_IdleNoBlink_29: 21300058
+      Girl_IdleNoBlink_1: 21300002
+      Girl_IdleNoBlink_14: 21300028
+      Girl_IdleNoBlink_22: 21300044
+      Girl_IdleNoBlink_34: 21300068
+      Girl_IdleNoBlink_12: 21300024
+      Girl_IdleNoBlink_26: 21300052
+      Girl_IdleNoBlink_37: 21300074
+      Girl_IdleNoBlink_5: 21300010
+      Girl_IdleNoBlink_15: 21300030
+      Girl_IdleNoBlink_0: 21300000
+      Girl_IdleNoBlink_10: 21300020
+      Girl_IdleNoBlink_8: 21300016
+      Girl_IdleNoBlink_21: 21300042
+      Girl_IdleNoBlink_9: 21300018
+      Girl_IdleNoBlink_4: 21300008
+      Girl_IdleNoBlink_25: 21300050
+      Girl_IdleNoBlink_27: 21300054
+      Girl_IdleNoBlink_7: 21300014
+      Girl_IdleNoBlink_35: 21300070
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

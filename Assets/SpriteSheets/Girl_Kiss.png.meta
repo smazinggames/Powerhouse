@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: 331fc9193aa8b4d2cb583ce09e8d598c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Girl_Kiss_0
+  - first:
+      213: 21300002
+    second: Girl_Kiss_1
+  - first:
+      213: 21300004
+    second: Girl_Kiss_2
+  - first:
+      213: 21300006
+    second: Girl_Kiss_3
+  - first:
+      213: 21300008
+    second: Girl_Kiss_4
+  - first:
+      213: 21300010
+    second: Girl_Kiss_5
+  - first:
+      213: 21300012
+    second: Girl_Kiss_6
+  - first:
+      213: 21300014
+    second: Girl_Kiss_7
+  - first:
+      213: 21300016
+    second: Girl_Kiss_8
+  - first:
+      213: 21300018
+    second: Girl_Kiss_9
+  - first:
+      213: 21300020
+    second: Girl_Kiss_10
+  - first:
+      213: 21300022
+    second: Girl_Kiss_11
+  - first:
+      213: 21300024
+    second: Girl_Kiss_12
+  - first:
+      213: 21300026
+    second: Girl_Kiss_13
+  - first:
+      213: 21300028
+    second: Girl_Kiss_14
+  - first:
+      213: 21300030
+    second: Girl_Kiss_15
+  - first:
+      213: 21300032
+    second: Girl_Kiss_16
+  - first:
+      213: 21300034
+    second: Girl_Kiss_17
+  - first:
+      213: 21300036
+    second: Girl_Kiss_18
+  - first:
+      213: 21300038
+    second: Girl_Kiss_19
+  - first:
+      213: 21300040
+    second: Girl_Kiss_20
+  - first:
+      213: 21300042
+    second: Girl_Kiss_21
+  - first:
+      213: 21300044
+    second: Girl_Kiss_22
+  - first:
+      213: 21300046
+    second: Girl_Kiss_23
+  - first:
+      213: 21300048
+    second: Girl_Kiss_24
+  - first:
+      213: 21300050
+    second: Girl_Kiss_25
+  - first:
+      213: 21300052
+    second: Girl_Kiss_26
+  - first:
+      213: 21300054
+    second: Girl_Kiss_27
+  - first:
+      213: 21300056
+    second: Girl_Kiss_28
+  - first:
+      213: 21300058
+    second: Girl_Kiss_29
+  - first:
+      213: 21300060
+    second: Girl_Kiss_30
+  - first:
+      213: 21300062
+    second: Girl_Kiss_31
+  - first:
+      213: 21300064
+    second: Girl_Kiss_32
+  - first:
+      213: 21300066
+    second: Girl_Kiss_33
+  - first:
+      213: 21300068
+    second: Girl_Kiss_34
+  - first:
+      213: 21300070
+    second: Girl_Kiss_35
+  - first:
+      213: 21300072
+    second: Girl_Kiss_36
+  - first:
+      213: 21300074
+    second: Girl_Kiss_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Girl_Kiss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7794f4e36674c59b5ee0928a8daea5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215437fae062c4ff7ae72a5c03f1a7d8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec16e03a62ec74371aa65200f9458afa
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3b178bed17461ebc782c121d743b2
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_4
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecc5940db31f4341a4a78eb9bb49eaa
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_5
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e8220ea7ffe46c692d53195978393c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_6
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb05edf498b734144a3b4b662d071683
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_7
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a51e2981d34bc7b4374db85ccf2cd
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_8
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94272d84baa4b40d693aa7583027f55a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_9
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1770
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3afcab590832496794c1d47f80b1c65
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3653d6a37875b43a591e13aef1d75221
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bce1da17efd4308805db1a990740f7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d04b371c4ae4ef0894e0b3003a231d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_13
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1611d91f64d444eb526c333278140a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_14
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bd63429b493482880dae3487e01a7c
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_15
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8959d1be26643858a75622b4f1fe84
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_16
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34794f98c86f485db2400630e20008d
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_17
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10edf0fa5f01340d5a11b78c048ef048
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_18
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454abf1b2ee9246d7b123ed349a3f343
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_19
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1180
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee21b0bf96394478841bb68328cdb3f
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cdce4b24ef5432fb2e09a5d7dfe611
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b939b8b6b514652ade22e787e16496
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e610d28a93734bd1bf7a7f340ddd2f1
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_23
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a104702b199148b29c5465a8de16cf5
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_24
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4241f4b156442c8bfac5985d3b8d5c
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_25
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45542420cf3b54d27bfee6a196a57058
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_26
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fed03959b785489488db416f9cbc861
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_27
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bafc1d5875f3446b8085912b5864286
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_28
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26cf08c363df4111836a251b25783b8
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_29
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 590
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45684eeedcd9d4506a33084c26f74a76
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62a6304eef294cd18a713fc46e2e073
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af674cd45a8d74d59b5ba5305e130c85
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_32
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7b5b23018b441cbbdc497a11c8c5f5
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_33
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e9e6c61f4de415db41bf7b43b2a6bc
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_34
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c843c355307748228df2a38d4f45b6b
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_35
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfaa6813be4d423db1f1e3c8f78bd96
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_36
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5ccb1046a8d473b9a7286acfa1c32c
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Kiss_37
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 0
+        width: 321
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a30c5a78c96d48c4bc7cc4c99ecada8
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 123c5b2de10f14d18b45274416aae2e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Girl_Kiss_19: 21300038
+      Girl_Kiss_5: 21300010
+      Girl_Kiss_11: 21300022
+      Girl_Kiss_6: 21300012
+      Girl_Kiss_30: 21300060
+      Girl_Kiss_14: 21300028
+      Girl_Kiss_10: 21300020
+      Girl_Kiss_23: 21300046
+      Girl_Kiss_24: 21300048
+      Girl_Kiss_9: 21300018
+      Girl_Kiss_26: 21300052
+      Girl_Kiss_3: 21300006
+      Girl_Kiss_34: 21300068
+      Girl_Kiss_28: 21300056
+      Girl_Kiss_2: 21300004
+      Girl_Kiss_16: 21300032
+      Girl_Kiss_17: 21300034
+      Girl_Kiss_37: 21300074
+      Girl_Kiss_31: 21300062
+      Girl_Kiss_25: 21300050
+      Girl_Kiss_20: 21300040
+      Girl_Kiss_29: 21300058
+      Girl_Kiss_0: 21300000
+      Girl_Kiss_1: 21300002
+      Girl_Kiss_32: 21300064
+      Girl_Kiss_33: 21300066
+      Girl_Kiss_13: 21300026
+      Girl_Kiss_4: 21300008
+      Girl_Kiss_21: 21300042
+      Girl_Kiss_22: 21300044
+      Girl_Kiss_8: 21300016
+      Girl_Kiss_15: 21300030
+      Girl_Kiss_27: 21300054
+      Girl_Kiss_18: 21300036
+      Girl_Kiss_7: 21300014
+      Girl_Kiss_35: 21300070
+      Girl_Kiss_12: 21300024
+      Girl_Kiss_36: 21300072
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
